@@ -1,0 +1,2 @@
+'{}' these are used for using dynamic variables.
+We can write values inside {} using variable or using directly values like (integer, string, array, Math objects, )
